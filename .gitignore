@@ -1,0 +1,13 @@
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# SSH Keys
+*.pem
+
+# Ansible temp
+*.retry
+
+# OS
+.DS_Store
